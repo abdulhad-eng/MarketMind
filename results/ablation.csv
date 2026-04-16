@@ -1,0 +1,4 @@
+Configuration,Correct,Total,Accuracy
+Baseline,63,250,25.2%
++ RAG + Sentiment,83,250,33.2%
++ Decomposition + CoVe,92,250,36.8%
